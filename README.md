@@ -29,7 +29,7 @@ The app supports email/password login, Google authentication, speech-to-text mes
 
 1. Clone the repository:
    - git clone https://github.com/kazihabiba201/chat_loop
-   - cd chat_app
+   - cd chat_loop
 
 2. Install dependencies:
    - flutter pub get
