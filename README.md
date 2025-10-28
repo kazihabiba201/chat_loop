@@ -28,7 +28,7 @@ The app supports email/password login, Google authentication, speech-to-text mes
 ## Setup Instructions
 
 1. Clone the repository:
-   - git clone https://github.com/kazihabiba201/chat_app
+   - git clone https://github.com/kazihabiba201/chat_loop
    - cd chat_app
 
 2. Install dependencies:
