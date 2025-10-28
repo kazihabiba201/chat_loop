@@ -1,0 +1,10 @@
+{
+  "@@locale": "en",
+  "appTitle": "Flutter Chat App",
+  "language": "বাংলা",
+  "speechBubble": "To delete swipe left, to edit do long press",
+  "chat": "Chat",
+  "typeMessage": "Type a message...",
+  "speechNotAvailable": "Speech recognition not available on this device",
+  "noInternet": "No internet connection. Please connect to Wi-Fi."
+}
